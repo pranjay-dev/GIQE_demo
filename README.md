@@ -4,19 +4,19 @@ Demonstration of GIQE and effect of Image Restoration on DownStream Perception T
 <hr />
 
 <p align="center">
-  <img src="assets/GIQE_fog_seg.gif" width="1200" />
+  <img src="assets/GIQE_fog_seg.gif" width="900" />
 </p>
 
 <p align="center">
-  <img src="assets/GIQE_night_seg.gif" width="1200" />
+  <img src="assets/GIQE_night_seg.gif" width="900" />
 </p>
 
 <p align="center">
-  <img src="assets/GIQE_rain_seg.gif" width="1200" />
+  <img src="assets/GIQE_rain_seg.gif" width="900" />
 </p>
 
 <p align="center">
-  <img src="assets/GIQE_snow_seg.gif" width="1200" />
+  <img src="assets/GIQE_snow_seg.gif" width="900" />
 </p>
 
 <hr />
